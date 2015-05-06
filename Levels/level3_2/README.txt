@@ -1,0 +1,1 @@
+How many lights are in this level?
